@@ -24,4 +24,4 @@ This plugin allow to set more than one post author in wordpress post.
 **Installation**:
 1. Log in to your WordPress admin panel.
 2. Download plugin from github after that Upload them to /wp-content/plugins/ directory on your WordPress installation
-3. Then activate the Plugin from Plugins page.
+3. Then activate the Plugin from Plugins page.# rtcamp_contributors_assignment
