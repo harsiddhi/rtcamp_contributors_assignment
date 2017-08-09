@@ -8,9 +8,8 @@
  * License:GPL-2.0+
  */
 
-/**
- * Add wp-contributors the class .
- */
+
+ // Add wp-contributors the class .
 require_once 'includes/class-wordpress-contributors.php';
 /**
  * Calls the class on the post edit screen.
