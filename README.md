@@ -1,4 +1,4 @@
-# rtcamp_contributors_assignment
+#contributors
 Following plugin contain assignment given by RT-Camp for WordPress-Contributors Plugin demo with allow to set more than one post author in wordpress post.
 ## Information 
 **Author**: Harsiddhi Thakkar    
